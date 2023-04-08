@@ -1,8 +1,6 @@
 .item {
     display: flex;
     align-items: center;
-    justify-content: start;
-
     margin-bottom: 20px;
     height: 100px;
     width: 400px;
@@ -13,16 +11,16 @@
 }
 
 .avatar{
-    /* width: 48px;
-    height: 48px; */
+    width: 48px;
+    height: 48px;
     margin: 0 20px;
 
 }
 .status{
-    color: red;
+    color: rgb(187, 12, 12);
   
 }
 .isOnline{
   
-    color: green;
+    color: rgb(14, 216, 14);
 }

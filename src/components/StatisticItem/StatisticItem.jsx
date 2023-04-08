@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'; 
-import css from "components/StatisticItem/StatisticItem.module.css";
+import css from "./StatisticItem.module.css";
 
 
 export const StatisticItem = ({ label, percentage }) => {

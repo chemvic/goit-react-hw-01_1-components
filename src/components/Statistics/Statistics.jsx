@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'; 
 import data from "info/data.json";
-import css from "components/Statistics/Statistics.module.css";
-import { StatisticItem } from "components/StatisticItem/StatisticItem";
+import css from "./Statistics.module.css";
+import { StatisticItem } from "../StatisticItem/StatisticItem";
 
 
 
