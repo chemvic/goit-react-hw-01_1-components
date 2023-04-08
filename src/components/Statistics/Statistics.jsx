@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'; 
-import data from "info/data.json";
+import data from "../../info/data.json";
 import css from "./Statistics.module.css";
 import { StatisticItem } from "../StatisticItem/StatisticItem";
 
