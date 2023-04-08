@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+    margin-bottom: 20px;
+    height: 100px;
+    width: 400px;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 3px -2px,
+            rgb(0 0 0 / 14%) 0px 3px 4px 0px, rgb(0 0 0 / 12%) 0px 1px 8px 0px;
+}
+
+.avatar{
+    /* width: 48px;
+    height: 48px; */
+    margin: 0 20px;
+
+}
+.status{
+    color: red;
+  
+}
+.isOnline{
+  
+    color: green;
+}

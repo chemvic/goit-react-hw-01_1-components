@@ -1,0 +1,22 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 35px;
+    height: 35px;
+    padding: 25px 35px;
+    
+}
+
+.label{
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.percentage{
+     font-size: 22px;
+    color: #fff;
+}
+

@@ -1,0 +1,27 @@
+table caption {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 3px -2px,
+            rgb(0 0 0 / 14%) 0px 3px 4px 0px, rgb(0 0 0 / 12%) 0px 1px 8px 0px;
+        margin-bottom: 60px;
+}
+
+table th,
+table td {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #acabab7e;
+    font-size: 18px;
+    text-align: center;
+    color: darkgray; 
+}
+table th{
+    background-color: #1eaef1;
+    border: 1px solid #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fff;
+}

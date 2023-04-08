@@ -1,0 +1,12 @@
+.type::first-letter {
+    text-transform: uppercase;
+
+}
+
+.tableRowOdd {
+    background-color:#f2f2f2 ;
+}
+
+.tableRowEven {
+    background-color: #fff;
+}
