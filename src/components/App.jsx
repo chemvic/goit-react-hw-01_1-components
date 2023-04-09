@@ -30,7 +30,7 @@ export const App = () => {
         likes={user.stats.likes}
       />
       
-      <Statistics title="Upload stats" stats={data} />
+      <Statistics title="Upload stats" data={data} />
       
       <FriendList friends={friends} />
 
